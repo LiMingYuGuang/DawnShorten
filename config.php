@@ -16,4 +16,4 @@ define('DB_PASSWD','PASSWORD');
 //MySQL DB Name
 define('DB_NAME','DBNAME');
 //Shorter Passwd
-define('SHORTER_PASSWD','dawn123');
+define('SHORTEN_PASSWD','dawn123');
